@@ -58,7 +58,7 @@ This should open the page in your localhost on port 3000. then you'd be able to 
 👤 **Author**
 
 - GitHub: [@Bushra Mustofa](https://github.com/bushmusi)
-- Linkedin: [@Bushra Mustofa](https://www.linkedin.com/bushra-mustofa)
+- Linkedin: [@Bushra Mustofa](https://www.linkedin.com/in/bushra-mustofa)
 - Twitter: [@Bushra Mustofa](https://www.twitter.com/bushera_mestofa)
 
 ## 📝 License
